@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "chemotaxis"
+version = "0.1.0"
+description = ""
+authors = ["Simon Eisenmann <simon.eisenmann98@web.de>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+matplotlib = "^3.7.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
