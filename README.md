@@ -1,6 +1,6 @@
 # Chemotaxis Simulation with Information Theory Analysis
 
-This project simulates chemotaxis behavior in biological organisms using a grid or maze environment. It also incorporates information theory analysis to study the decision-making processes of these organisms. Chemotaxis is the movement of cells or organisms in response to a gradient of a chemical substance. In this simulation, we aim to model and analyze how organisms navigate towards certain chemicals in their environment.
+This project simulates chemotaxis behavior in biological organisms using a grid or maze environment. It also incorporates information theory analysis to study the decision-making processes of these organisms. Chemotaxis is the movement of cells or organisms in response to a gradient of a chemical substance. In this simulation, we aim to model and analyze how organisms navigate towards certain chemicals in their environment. This project was realized in a group at the summer academy in Disentis 2023 by the German Academic Scholarship Foundation.
 
 ## Table of Contents
 
